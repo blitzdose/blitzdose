@@ -1,7 +1,7 @@
 ### Hi there 🚀
 
-- 🔭 I’m currently working on LoRa GPS-Tracker
-- 🌱 I’m currently studying computer science
+- 🔭 I’m currently relaxing after a stressful semester
+- 🌱 I’m studying computer science
 - 📫 How to reach me: [E-mail](mailto:christian@blitzdose.de)
 - ⚡ Fun fact: I hate frontend development
 
