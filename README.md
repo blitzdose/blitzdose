@@ -1,6 +1,6 @@
 ### Hi there 🚀
 
-- 🔭 I’m currently relaxing after a stressful semester
+- 🔭 I’m currently learning Flutter to bring our DHBWorld-App to IOS
 - 🌱 I’m studying computer science
 - 📫 How to reach me: [E-mail](mailto:christian@blitzdose.de)
 - ⚡ Fun fact: I hate frontend development
