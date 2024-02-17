@@ -1,6 +1,6 @@
 ### Hi there 🚀
 
-- 🔭 I’m currently learning Flutter to bring our DHBWorld-App to IOS
+- 🔭 I’m currently thinking about learning C#
 - 🌱 I’m working as a Cybersecurity Consultant
 - 📫 How to reach me: [E-mail](mailto:christian@blitzdose.de)
 - ⚡ Fun fact: I hate frontend development
